@@ -5,7 +5,14 @@ public class HelloWorld {
 		
 		
 		System.out.println("Hello World - Prof milo");
+		donMilo();
 
 	}
-
+	
+	
+	public static void donMilo(){
+		
+		System.out.print("Congratulation");
+		System.out.print(" Don Milo");
+	}
 }
